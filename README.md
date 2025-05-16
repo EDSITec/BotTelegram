@@ -98,5 +98,5 @@ Debemos editar el archivo engine.py, modificando el parametro token y agregaremo
 ### Impacto del acciones de respuesta globales en Trend Micro Vision One
 
 <p align="center">
-<img src="screenshots/respuesta.png" width="800" >
+<img src="screenshots/respuesta ioc.png" width="800" >
 </p>
